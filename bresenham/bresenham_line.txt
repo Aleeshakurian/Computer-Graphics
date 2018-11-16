@@ -1,0 +1,4 @@
+Enter the cordinates of x1 and z1:20 20
+
+Enter the cordinates of x2 and y2:50 50
+
